@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Renan
 
-- 🧑‍🎓 Eu sou estudante em Analise e Desenvolvimento de sistemas
+- 🧑‍🎓 Sou formado em Analise e Desenvolvimento de Sistemas pelo Institudo Federal de São Paulo
 
 <a href="https://github.com/renan-oliveira1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-oliveira1&layout=compact&langs_count=7&theme=dark"/>
